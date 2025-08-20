@@ -63,5 +63,5 @@ XGBoost: Algoritmo de Gradient Boosting.
 🤝 Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar el código o el análisis, por favor, crea un pull request o abre un issue para discutirlo.
 
-Autor: [Tu Nombre o Nombre de Usuario]
-Fecha: [Fecha de Finalización del Proyecto]
+Autor: Michael Ruiz Esquivel
+Fecha: 18/8/25
